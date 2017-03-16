@@ -12,6 +12,8 @@ Bulletin of our awesome collections
 
 ## 前端工程
 - [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+- [结合个人经历总结的前端入门方法(qiu-deqing)](https://github.com/qiu-deqing/FE-learning)
+- [收集的前端面试题和答案(qiu-deqing)](https://github.com/qiu-deqing/FE-interview)
 
 ## AWS
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
