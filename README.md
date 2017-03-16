@@ -5,10 +5,13 @@ Bulletin of our awesome collections
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups)
 - [what-happens-when](https://github.com/alex/what-happens-when)
-- [当···时发生了什么？(what-happens-when的中文版)](https://github.com/Readme-Guru/what-happens-when-zh_CN)
+- [当···时发生了什么？(what-happens-when的中文版)](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 ## Data Science
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+## 前端工程
+- [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
 
 ## AWS
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
