@@ -18,8 +18,9 @@ Bulletin of our awesome collections
 - [结合个人经历总结的前端入门方法(qiu-deqing)](https://github.com/qiu-deqing/FE-learning)
 - [收集的前端面试题和答案(qiu-deqing)](https://github.com/qiu-deqing/FE-interview)
 
-## Git
+## Git/GitHub
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [awesome-readme](https://github.com/matiassingers/awesome-readme)
 
 ## AWS
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
