@@ -33,3 +33,6 @@ Bulletin of our awesome collections
 ### JavaScript
 - [node-interview](https://github.com/ElemeFE/node-interview)
 - [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
+
+## Books
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
