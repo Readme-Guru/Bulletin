@@ -31,7 +31,9 @@ Bulletin of our awesome collections
 ## Programming Language
 ### Python
 - [interview_python](https://github.com/Readme-Guru/interview_python)
-### JavaScript
+### JavaScript/TypeScript
+- [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
+- [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
 - [node-interview](https://github.com/ElemeFE/node-interview)
 - [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
 
