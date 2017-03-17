@@ -24,9 +24,6 @@ Bulletin of our awesome collections
 ## Resume
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)
 
-## Vim
-- [vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet)
-
 ## Programming Language
 ### Python
 - [interview_python](https://github.com/Readme-Guru/interview_python)
@@ -36,3 +33,7 @@ Bulletin of our awesome collections
 
 ## Books
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+## Cheatsheets
+- [devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet)
+- [vim-cheatsheet](https://github.com/hackjutsu/vim-cheatsheet)
