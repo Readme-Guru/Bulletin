@@ -1,5 +1,7 @@
 # Bulletin
-Bulletin of our awesome collections 
+Bulletin of our awesome collections！
+
+-->[申请加入小组](https://github.com/Readme-Guru/Bulletin/issues/2)<--
 
 ## System Design
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
