@@ -12,6 +12,7 @@ Bulletin of our awesome collections
 
 ## 全栈开发
 - [Growth Engineering: The Definitive Guide(全栈增长工程师指南)](https://github.com/phodal/growth-ebook)
+- [Web Developer Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
 
 ## 前端工程
 - [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
