@@ -26,6 +26,9 @@ Bulletin of our awesome collections
 ## AWS
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
 
+## Design Pattern
+- [Design Patterns For Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
+
 ## Resume
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)
 
