@@ -27,6 +27,7 @@ Bulletin of our awesome collections！
 
 ## AWS
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
+- [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 ## Design Pattern
 - [Design Patterns For Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
