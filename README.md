@@ -29,6 +29,9 @@ Bulletin of our awesome collections！
 - [awesome-aws](https://github.com/donnemartin/awesome-aws)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
+## API
+- [Public APIs](https://github.com/toddmotto/public-apis)
+
 ## Design Pattern
 - [Design Patterns For Humans!](https://github.com/kamranahmedse/design-patterns-for-humans)
 
@@ -36,6 +39,8 @@ Bulletin of our awesome collections！
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)
 
 ## Programming Language
+### Bash
+- [bash-guide](https://github.com/Idnan/bash-guide)
 ### Python
 - [interview_python](https://github.com/Readme-Guru/interview_python)
 ### JavaScript/TypeScript
