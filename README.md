@@ -3,6 +3,10 @@ Bulletin of our awesome collections！
 
 -->[申请加入小组](https://github.com/Readme-Guru/Bulletin/issues/2)<--
 
+## Blockchain
+- [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
+- [Blockchain 区块链 - 中文资源阅读列表](https://github.com/LiuBoyu/blockchain)
+
 ## System Design
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [Security 101 for SaaS startups](https://github.com/forter/security-101-for-saas-startups)
